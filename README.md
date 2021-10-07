@@ -1,14 +1,23 @@
-# Research_portfolio
+# Research Portfolio
 
 This portfolio contains information about my research.
 
 ## Publications
 
-* [A Probabilistic Model for the Ultradian Timing of REM Sleep in Mice](): Modelling the ultradian regulation of REM sleep in mice and using the model to investigate electrophysiologial features of the mouse brain during various stages of sleep. Paper has been published in **PLOS Computational Biology** and can be found [here](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009316). The code and data used for this project can be found [here](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009316).
+### [A Probabilistic Model for the Ultradian Timing of REM Sleep in Mice](https://github.com/parksu111/REM_GMM): 
+![fig1](https://github.com/parksu111/research_portfolio/blob/main/img/fig1.png)
+Modelling the ultradian regulation of REM sleep in mice and using the model to investigate electrophysiologial features of the mouse brain during various stages of sleep. Paper has been published in **PLOS Computational Biology** and can be found [here](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009316). The code and data used for this project can be found [here](https://github.com/parksu111/REM_GMM).
 
    Citation: **Park S-H**, Baik J, Hong J, Antila H, Kurland B, Chung S, et al. (2021) A probabilistic model for the ultradian timing of REM sleep in mice. PLoS Comput Biol 17(8): e1009316. https://doi.org/10.1371/journal.pcbi.1009316
 
-* [Neural and Homeostatic Regulation of REM Sleep](): Review paper summarizing the neural and homeostatic mechanisms controlloing REM sleep. Paper has been published in **Frontiers in Psychology** and can be found [here](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.01662/full).
+
+<br>
+<br>
+
+### [Neural and Homeostatic Regulation of REM Sleep](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.01662/full): 
+![fig2](https://github.com/parksu111/research_portfolio/blob/main/img/fig2.jpg)
+Review paper summarizing the neural and homeostatic mechanisms controlloing REM sleep. Paper has been published in **Frontiers in Psychology** and can be found [here](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.01662/full).
+
 
   Citation: **Park S-H** and Weber F (2020) Neural and Homeostatic Regulation of REM Sleep. Front. Psychol. 11:1662. doi: 10.3389/fpsyg.2020.01662
 
